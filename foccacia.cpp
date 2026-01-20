@@ -1,8 +1,6 @@
 /**
  * focaccia.cpp
-  * Project UID: d435ced1b1ee1e06372665b53322301c67d2d4a0
  *
- * <Tasnim Kashem>
  * <Tasnimk>
  *
  * EECS 183: Project 1
